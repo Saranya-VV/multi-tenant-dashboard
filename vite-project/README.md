@@ -52,3 +52,26 @@ export default tseslint.config({
   },
 })
 ```
+## Getting Started
+
+Clone the FE repository:
+bash
+Copy code
+git clone [https://github.com/Saranya-VV/multi-tenant-dashboard.git](https://github.com/Saranya-VV/multi-tenant-dashboard.git)
+cd vite-commerceyt
+Install dependencies:
+bash
+Copy code
+
+## Install dependencies
+cd multi-tenant-platform-assignment3
+npm install
+
+
+## Start 
+npm run dev
+Open the application:
+Open your browser and navigate to (http://localhost:5173).
+
+### Production Deployment FE url
+https://multi-tenant-dashboard-82g1.vercel.app/
